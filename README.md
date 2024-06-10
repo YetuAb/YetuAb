@@ -2,7 +2,7 @@
 
 <h1 align="center"> Hi, I'm Yetnayet Abebe! 👋</h1>
 
-<h4 align="center">I'm a Full-Stack Developer with a background in Electrical and Computer Engineering. I blend technical expertise with creativity to craft innovative, real-world software solutions.</h4>
+<h4>I'm a Full-Stack Developer with a background in Electrical and Computer Engineering. I blend technical expertise with creativity to craft innovative, real-world software solutions.</h4>
 
 ---
 
